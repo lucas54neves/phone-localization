@@ -1,6 +1,6 @@
 # Phone Localization
 
-Phone Localization é um script em Python que localiza um telefone pelo número, mostrando qual o estado da federação ele se encontra e qual a sua operadora.
+Phone Localization é um script em Python que localiza um telefone pelo número, mostrando qual o estado brasileiro que ele se encontra e qual sua operadora.
 
 ## Instalação do Python
 ### Download
